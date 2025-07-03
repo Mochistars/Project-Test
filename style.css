@@ -5,13 +5,13 @@ h1{
 };
 
 p{
-  color:#363838
+  color:#363838;
   font-family:monospace;
   font-size: 15px;
 };
 
 h3{
-  color:#e0ffff
+  color:#e0ffff;
   font-family:monospace;
 };
 
@@ -20,5 +20,5 @@ body{
 };
 
 img{
-  border-radius: 25%ttv;
+  border-radius: 25;
 }
